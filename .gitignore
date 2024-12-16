@@ -1,0 +1,9 @@
+# macOS specific files
+.DS_Store
+
+# Python virtual environment
+env/
+
+# Project specific directories
+Draft/
+2ia-2024-hackathon/
